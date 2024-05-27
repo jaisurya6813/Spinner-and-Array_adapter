@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="list"><item>"--Select a Character--"</item><item>"Vig"</item>
+        <item>"Len"</item>
+        <item>"Anu"</item>
+        <item>"Ayu"</item>
+        <item>"Alb"</item>
+        <item>"Js"</item>
+    </string-array>
+</resources>
